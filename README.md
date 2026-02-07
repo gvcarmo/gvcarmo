@@ -1,23 +1,17 @@
 # Olá, meu nome é Giovanni!
 ## Seja bem vindo ao meu perfil! =) 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://gvcarmo.github.io/portfolio/curriculo-giovanni.pdf" download="Curriculo_Giovanni" target="_blank">Clique aqui</a> para baixar meu currículo!
+
+Tecnologias:
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<i class="devicon-typescript-plain"></i>
 
 <div>
 <a href="https://github.com/gvcarmo">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvcarmo&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gvcarmo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/gvcarmo/gvcarmo/blob/output/github-contribution-grid-snake.svg)
 
 ## Contatos:
 <div>
